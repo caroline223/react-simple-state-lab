@@ -5,9 +5,9 @@
     "passes": 10,
     "pending": 0,
     "failures": 0,
-    "start": "2021-05-26T06:04:25.209Z",
-    "end": "2021-05-26T06:04:25.236Z",
-    "duration": 27
+    "start": "2021-05-26T06:28:46.085Z",
+    "end": "2021-05-26T06:28:46.119Z",
+    "duration": 34
   },
   "tests": [
     {
@@ -20,21 +20,21 @@
     {
       "title": "each sub-array of the default 'values' prop is an array",
       "fullTitle": "<Matrix /> each sub-array of the default 'values' prop is an array",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "each sub-array of the default values prop is filled with 10 hex color string equal to: '#F00'",
       "fullTitle": "<Matrix /> each sub-array of the default values prop is filled with 10 hex color string equal to: '#F00'",
-      "duration": 1,
+      "duration": 2,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "is a correctly defined and exported React component which renders a <div> with a className of 'cell'",
       "fullTitle": "<Cell /> is a correctly defined and exported React component which renders a <div> with a className of 'cell'",
-      "duration": 3,
+      "duration": 2,
       "currentRetry": 0,
       "err": {}
     },
@@ -62,7 +62,7 @@
     {
       "title": "has an event listener that, when clicked, calls this.setState() once (make sure you aren't setting state directly, but instead using the component's 'setState' method)",
       "fullTitle": "<Cell /> has an event listener that, when clicked, calls this.setState() once (make sure you aren't setting state directly, but instead using the component's 'setState' method)",
-      "duration": 3,
+      "duration": 2,
       "currentRetry": 0,
       "err": {}
     },
@@ -94,21 +94,21 @@
     {
       "title": "each sub-array of the default 'values' prop is an array",
       "fullTitle": "<Matrix /> each sub-array of the default 'values' prop is an array",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "each sub-array of the default values prop is filled with 10 hex color string equal to: '#F00'",
       "fullTitle": "<Matrix /> each sub-array of the default values prop is filled with 10 hex color string equal to: '#F00'",
-      "duration": 1,
+      "duration": 2,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "is a correctly defined and exported React component which renders a <div> with a className of 'cell'",
       "fullTitle": "<Cell /> is a correctly defined and exported React component which renders a <div> with a className of 'cell'",
-      "duration": 3,
+      "duration": 2,
       "currentRetry": 0,
       "err": {}
     },
@@ -136,7 +136,7 @@
     {
       "title": "has an event listener that, when clicked, calls this.setState() once (make sure you aren't setting state directly, but instead using the component's 'setState' method)",
       "fullTitle": "<Cell /> has an event listener that, when clicked, calls this.setState() once (make sure you aren't setting state directly, but instead using the component's 'setState' method)",
-      "duration": 3,
+      "duration": 2,
       "currentRetry": 0,
       "err": {}
     },

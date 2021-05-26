@@ -1,7 +1,8 @@
-import { ReactWrapper } from 'enzyme';
-import React from 'react';
+import React, { Component } from 'react';
 
-class Cell extends React.Component {
+
+
+export default class Cell extends Component {
     //constructor that sets the initial state
     constructor(props) {
         super();
@@ -28,4 +29,3 @@ class Cell extends React.Component {
 
 
 
-export default Cell;
